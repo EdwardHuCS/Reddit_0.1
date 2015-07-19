@@ -5,7 +5,7 @@ import android.support.v4.app.FragmentActivity;
 /**
  * As of now, all this activity does is create and
  * render a fragment.
- *
+ *github test
  *
  */
 public class MainActivity extends FragmentActivity {
